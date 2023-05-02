@@ -6,7 +6,7 @@ authors = ["NubeDev <aidan@enviroservices.com.au>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-Flask = "1.1.2"
+Flask = "2.2.5"
 gunicorn = "20.0.4"
 adafruit-bbio = {git = "https://github.com/adafruit/adafruit-beaglebone-io-python", rev = "master"}
 itsdangerous = "2.0.1"
